@@ -1,0 +1,14 @@
+body {
+    background-color: #94a3b8;;
+}
+
+div {
+    background-color: white;
+    width: 350px;
+    height: 65vh;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 1.5rem;
+}
